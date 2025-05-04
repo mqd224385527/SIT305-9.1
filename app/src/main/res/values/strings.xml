@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Task9.1p</string>
+    <string name="app_name">Task91p</string>
+    <!-- 请替换成您从Google Cloud Console获取的真实API密钥 -->
+    <string name="google_maps_key">AIzaSyBZht-ud3PGPRu_XMoFSlTH2rsmQySomcA</string>
 </resources>
